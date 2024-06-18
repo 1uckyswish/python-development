@@ -17,9 +17,9 @@
         "titleBar.activeForeground": "#15202b",
         "titleBar.inactiveBackground": "#a9d0dc99",
         "titleBar.inactiveForeground": "#15202b99",
-       "code-runner.executorMap": {
-           "python": "python3"
-       }
+        "code-runner.executorMap": {
+            "python": "python3"
+        }
     },
     "peacock.color": "#a9d0dc"
 }
